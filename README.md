@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-https://readme-typing-svg.demolab.com?
+[![.](https://readme-typing-svg.demolab.com?
 font=Fira+Code&
 weight=600&
 size=25&
@@ -9,7 +9,7 @@ pause=1000&
 center=true&
 width=435&
 lines=Hello+World!+I'm+KuTan KIT;
-IT+in+UEH+University
+IT+in+UEH+University)
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hsntk1610@gmail.com) 
