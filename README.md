@@ -10,8 +10,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif
-
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hsntk1610@gmail.com) 
 
