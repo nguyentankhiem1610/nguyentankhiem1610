@@ -31,4 +31,6 @@ https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-sn
 ---
 [![](https://visitcount.itsvg.in/api?id=nguyentankhiem1610&icon=0&color=0)](https://visitcount.itsvg.in)
 
+[![.](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
