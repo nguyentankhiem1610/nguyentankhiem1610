@@ -4,7 +4,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&center=true&width=435&lines=Hello+World!+I'm+NuTan+KIT;IT+in+UEH+University)
 
-[![.](https://camo.githubusercontent.com/ceb89e19c6613a8ee6dd42456d75fc67b205745b58a0a35c6ab041af04d65975/68747470733a2f2f692e726564642e69742f7371386c32356a3972747665312e676966)
+![.](https://camo.githubusercontent.com/ceb89e19c6613a8ee6dd42456d75fc67b205745b58a0a35c6ab041af04d65975/68747470733a2f2f692e726564642e69742f7371386c32356a3972747665312e676966)
 
 
 ## 🌐 Socials:
