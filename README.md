@@ -27,7 +27,7 @@
 
 ---
 
-## 📊 Advanced Stats (Giống hình bạn gửi)
+## 📊 Advanced Stats 
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nguyentankhiem1610&theme=radical" />
@@ -40,7 +40,7 @@
 
 ---
 
-## ⚡ Extra Metrics (Full giống 100%)
+## ⚡ Extra Metrics
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/nguyentankhiem1610/nguyentankhiem1610/main/github-metrics.svg" />
