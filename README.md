@@ -20,12 +20,6 @@
 </p>
 
 
-
-## 📫 Contact
-
- 📧 Email: your-email@gmail.com
- 🌐 Facebook: your-link
-
 ![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)
 
 </div>
