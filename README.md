@@ -8,18 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&vCenter=true&lines=Welcome+to+my+GitHub!;I+love+coding+and+building+projects;Future+Fullstack+Developer" />
 </p>
 
-## 📊 Advanced Stats 
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nguyentankhiem1610&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nguyentankhiem1610&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nguyentankhiem1610&theme=radical" />
-</p>
-
-
 ![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)
 
 </div>
